@@ -14,6 +14,7 @@ bp={
         })
         4    
     },
+    
     loginGoogle:function(){//https://developers.google.com/identity/sign-in/web/devconsole-project
         
     },
